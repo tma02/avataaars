@@ -27,7 +27,7 @@ var MaskSignature = /** @class */ (function (_super) {
     private linearGradient2 = uniqueId('react-linear-gradient-')*/
     MaskSignature.prototype.render = function () {
         //const { path1, path2, filter1, linearGradient1, linearGradient2 } = this
-        return (React.createElement("g", { id: 'Top/_Resources/MaskSignature', fill: 'none', transform: 'translate(62.000000, 85.000000)', strokeWidth: '1' },
+        return (React.createElement("g", { id: 'Top/_Resources/MaskSignature', fill: 'none', transform: 'translate(74.000000, 96.000000) scale(0.72)', strokeWidth: '1' },
             React.createElement("defs", null,
                 React.createElement("clipPath", { id: "clip-path", transform: "translate(-313.3 -244.88)" },
                     React.createElement("path", { d: "M465.4,266.76q-2.5,18.5-5,37v0c-.07.38-.13.82-.18,1.29,0,0,0,.1,0,.16-.8,7.36-.71,24.94-11.33,41.26-10.48,16.1-34.1,26.7-53.52,26-19.42.73-43-9.87-53.52-26-10.62-16.32-10.53-33.9-11.33-41.26,0-.06,0-.11,0-.16,0-.47-.11-.91-.18-1.29v0q-2.5-18.48-5-37c11.49,18.21,21.82,23.4,30,23.88,13.76.81,21.15-11.68,40-11.85,18.9.17,26.28,12.66,40,11.85C443.59,290.16,453.91,285,465.4,266.76Z", fill: "#8c6046", stroke: "#232626", "stroke-linecap": "round", "stroke-miterlimit": "10", "stroke-width": "2" }))),
