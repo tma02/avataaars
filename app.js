@@ -8,7 +8,7 @@ var crypto = require('crypto');
 // React Components
 import React from 'react';
 import RDS from 'react-dom/server';
-import Avataaars from 'avataaars';
+import Avataaars from './avataaars-pictario';
 
 const app = express();
 
